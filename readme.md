@@ -1,12 +1,1 @@
-
-## About
-This project is a demo about using Elasticsearch with Nodejs for search restaurants.
-
-## Note
-if you using bonsai.io cluster v7.10, you must install @elastic/elasticsearch exact version 7.13
-
-if not, you got the error: 
-
-`
-ProductNotSupportedError: The client noticed that the server is not a supported distribution of Elasticsearch
-`
+![Screenshot 2023-02-18 200633](https://user-images.githubusercontent.com/93249038/219871659-634ff3e0-27e2-4b0f-95ee-c2a25b6c2817.png)
